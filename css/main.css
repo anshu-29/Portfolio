@@ -1001,7 +1001,15 @@ header .logo {
 	font-size: 6rem;
 	color: #000;
 }
-.services-list h3 {
+.services-list h3  a{
+	color: #1e90ff;
+}
+.services-list h3  a:hover{
+	color: #151515;
+	font-weight: bold;
+
+}
+.services-list h3{
 	color: #1e90ff;
 }
 .services-list .desc {
